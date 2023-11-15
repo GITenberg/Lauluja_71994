@@ -1,0 +1,28 @@
+_repo: Lauluja_71994
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rytkönen, Antti
+    alias: Rytkonen, Antti
+    birthdate: 1870
+    deathdate: 1930
+    gutenberg_agent_id: '48910'
+    url: http://www.gutenberg.org/2009/agents/48910
+    wikipedia: https://fi.wikipedia.org/wiki/Antti_Rytkönen
+description: ''
+gutenberg_issued: '2023-10-31'
+identifiers:
+  gutenberg: '71994'
+language: fi
+pgterms:marc905: 20230606230153rytknen
+pgterms:marc906: '1900'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bVihtori Alava, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lauluja
+url: http://www.gutenberg.org/ebooks/71994
